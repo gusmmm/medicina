@@ -1,0 +1,5 @@
+- ### tratamento
+	- usar sódio hipertónico [[NaCl 3%]]
+	- se houver ao mesmo tempo acidose metabólica grave
+		- pode ser útil usar [[bicarbonato 8.4%]] em vez sódio hipertónico
+-
