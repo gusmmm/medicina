@@ -1,0 +1,16 @@
+- em doentes com preeclampsia severa
+	- ((629f6dce-18f4-4a92-8d3c-930c26911a25))
+- dose inicial 4 a 6 g iv #sulfato_magnesio
+	- em 20 minutos
+- manutençao de 1 a 2g/h iv perfusao
+	- tem que ser ajustada na #AKI
+		- 1g/h de #Screa entre 1.2 e 2.5
+		- sem manutençao se > 2.5
+-
+- ## sinais de toxicidade de mg
+	- perda de reflexos
+		- patelar p ex
+	- paralisia respiratoria
+	- conduçao cardiaca lentificada podendo evoluir para PCR
+	- ### tratamento da toxicidade de mg
+		- #glunocato_calcio 10% 10 mL iv em 5 min

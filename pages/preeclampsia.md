@@ -1,0 +1,13 @@
+- # tratamento
+	- ## objectivos do tratamento
+		- tratar a #HTA se severa
+		- prevenção de #convulsão
+		- parto [[parto na preeclampsia]] #delivery
+		- vigilância pós-parto
+	- ## tratamento da HTA
+		- indicado se TAs > 160 e ou TAd>110
+			- para impedir #AVC
+			- nao tem qq influencia sobre a eclampsia
+	- ## prevenção da convulsão
+		- [[magnesio na preeclampsia]]
+	-

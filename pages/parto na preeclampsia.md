@@ -1,0 +1,14 @@
+- # timing of delivery
+	- #delivery depende de
+		- tempo gestacional
+		- severidade da preeclampsia
+		- condição materna
+		- condição fetal
+	- ![image.png](../assets/image_1654614403174_0.png)
+	- ## preeclampsia severa
+	  id:: 629f6dce-18f4-4a92-8d3c-930c26911a25
+		- preeclampsia com caracteristicas de severidade é geralmente indicação para parto, independentemente da idade gestacional
+			- pelo alto risco de morbilidade materna
+			- ![image.png](../assets/image_1654614902411_0.png)
+			-
+	-
