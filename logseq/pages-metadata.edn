@@ -2,11 +2,11 @@
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
  {:block/name "aki",
-  :block/created-at 1654615758057,
-  :block/updated-at 1654615758057}
+  :block/created-at 1655196553413,
+  :block/updated-at 1655196553413}
  {:block/name "avc",
-  :block/created-at 1654615229612,
-  :block/updated-at 1654615229612}
+  :block/created-at 1655196553718,
+  :block/updated-at 1655196553718}
  {:block/name "b",
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
@@ -29,11 +29,11 @@
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
  {:block/name "convulsão",
-  :block/created-at 1654614221276,
-  :block/updated-at 1654614221276}
+  :block/created-at 1655196553712,
+  :block/updated-at 1655196553712}
  {:block/name "delivery",
-  :block/created-at 1654614285565,
-  :block/updated-at 1654614285565}
+  :block/created-at 1655196553633,
+  :block/updated-at 1655196553633}
  {:block/name "doing",
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
@@ -44,8 +44,8 @@
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
  {:block/name "glunocato_calcio",
-  :block/created-at 1654616007214,
-  :block/updated-at 1654616007214}
+  :block/created-at 1655196553418,
+  :block/updated-at 1655196553418}
  {:block/name "hiponatrémia",
   :block/created-at 1654190226375,
   :block/updated-at 1654190226375}
@@ -55,27 +55,27 @@
  {:block/name "in-progress",
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
+ {:block/name "indice informatica medica",
+  :block/created-at 1655201009857,
+  :block/updated-at 1655201042522}
  {:block/name "indice_medicina",
   :block/created-at 1654179451510,
   :block/updated-at 1654179511126}
+ {:block/name "jun 14th, 2022",
+  :block/created-at 1655196384279,
+  :block/updated-at 1655201009858}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654177858491,
   :block/updated-at 1654179460940}
- {:block/name "jun 3rd, 2022",
-  :block/created-at 1654240234317,
-  :block/updated-at 1654240234317}
  {:block/name "jun 7th, 2022",
   :block/created-at 1654614038073,
   :block/updated-at 1654614126333}
- {:block/name "jun 9th, 2022",
-  :block/created-at 1654732910018,
-  :block/updated-at 1654732910018}
  {:block/name "later",
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
  {:block/name "magnesio na preeclampsia",
-  :block/created-at 1654615418735,
-  :block/updated-at 1654616047430}
+  :block/created-at 1655196553420,
+  :block/updated-at 1655196553420}
  {:block/name "may 31st, 2022",
   :block/created-at 1653994363223,
   :block/updated-at 1653994517780}
@@ -92,14 +92,20 @@
   :block/created-at 1653994618925,
   :block/updated-at 1653994618925}
  {:block/name "parto na preeclampsia",
-  :block/created-at 1654614278213,
-  :block/updated-at 1654615509481}
+  :block/created-at 1655196553638,
+  :block/updated-at 1655196553638}
+ {:block/name "paul taylor",
+  :block/created-at 1655201051034,
+  :block/updated-at 1655201057521}
+ {:block/name "personalidade informatica medica",
+  :block/created-at 1655201042521,
+  :block/updated-at 1655201051034}
  {:block/name "preeclampsia",
   :block/created-at 1654614126331,
   :block/updated-at 1654615418736}
  {:block/name "screa",
-  :block/created-at 1654615788983,
-  :block/updated-at 1654615788983}
+  :block/created-at 1655196553415,
+  :block/updated-at 1655196553415}
  {:block/name "server",
   :block/created-at 1653994510363,
   :block/updated-at 1653994527069}
@@ -107,8 +113,8 @@
   :block/created-at 1654177891577,
   :block/updated-at 1654177891577}
  {:block/name "sulfato_magnesio",
-  :block/created-at 1654615660862,
-  :block/updated-at 1654615660862}
+  :block/created-at 1655196553408,
+  :block/updated-at 1655196553408}
  {:block/name "sódio e natrémia",
   :block/created-at 1654190226532,
   :block/updated-at 1654190226532}
